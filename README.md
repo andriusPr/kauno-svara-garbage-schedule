@@ -1,1 +1,1 @@
-# "Kauno švara" garbage scheduled disposal information APP
+# "Kauno švara" scheduled waste disposal information APP
